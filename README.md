@@ -34,12 +34,6 @@ Data Modeling – Star schema design
 
 Visualizations – Line charts, bar charts, maps, KPIs, slicers
 
-📈 Key Insights
+## 📊 Dashboard Preview
 
-Q4 sales spikes indicate seasonal demand peaks.
-
-Technology and Office Supplies outperform other categories.
-
-Sub-categories like Copiers and Phones drive high profit.
-
-Some regions show high sales but low profit, pointing to discounting issues.
+<img width="1528" height="817" alt="Screenshot 2025-08-16 184329" src="https://github.com/user-attachments/assets/ed6f26ef-79ba-41e4-b23e-079a00a68742" />
