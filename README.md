@@ -36,4 +36,5 @@ Visualizations – Line charts, bar charts, maps, KPIs, slicers
 
 ## 📊 Dashboard Preview
 
-<img width="1528" height="817" alt="Screenshot 2025-08-16 184329" src="https://github.com/user-attachments/assets/ed6f26ef-79ba-41e4-b23e-079a00a68742" />
+<img width="1523" height="846" alt="Screenshot 2025-08-16 205201" src="https://github.com/user-attachments/assets/b0807f74-1200-4e8d-9dd7-6bc1fc81309c" />
+
